@@ -16,6 +16,10 @@ A sleek and modern navigation bar featuring neumorphism design, built with pure 
 - CSS3 🎨
 - Font Awesome Icons 🔤
 
+## Live Demo 🌐
+
+Check out the live demo: [Responsive Neumorphism Navigation Bar](https://iam269.github.io/Responsive-Neumorphism-Navigation-Bar/) 🚀
+
 ## Preview 👀
 
 The navigation bar features a centered logo and menu items with neumorphic styling. On mobile, it transforms into a slide-out menu for optimal user experience.

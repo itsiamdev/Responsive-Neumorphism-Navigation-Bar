@@ -18,7 +18,7 @@ A sleek and modern navigation bar featuring neumorphism design, built with pure 
 
 ## Live Demo 🌐
 
-Check out the live demo: [Responsive Neumorphism Navigation Bar](https://iam269.github.io/Responsive-Neumorphism-Navigation-Bar/) 🚀
+Check out the live demo: [Responsive Neumorphism Navigation Bar](https://itsiamdev.github.io/Responsive-Neumorphism-Navigation-Bar/) 🚀
 
 ## Preview 👀
 
